@@ -1,20 +1,36 @@
 # Data Analyst Journey
 
-This repository documents my journey toward becoming a Data Analyst.
+Welcome to my Data Analytics Portfolio.
 
-## Skills
+I am currently building practical skills in:
 
 - Excel
 - SQL
 - Power BI
 - Python
+- Data Visualization
+- Business Analytics
 
-## Projects
+## Repository Structure
 
-- Sales Analysis
-- HR Analytics
-- Export Business Analysis
+### Excel
+Excel practice exercises, dashboards, and case studies.
 
-## Resume
+### SQL
+SQL queries, joins, CTEs, window functions, and projects.
 
-My latest resume is available in the Resume folder.
+### Power BI
+Interactive dashboards and DAX projects.
+
+### Python
+Data cleaning, EDA, Pandas, and visualization projects.
+
+### Projects
+End-to-end analytics projects using real-world datasets.
+
+### Resume
+Latest version of my resume.
+
+## Current Goal
+
+To secure a Data Analyst role by demonstrating practical analytics skills through projects and portfolio work.

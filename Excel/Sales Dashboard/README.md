@@ -6,7 +6,7 @@ This project demonstrates the creation of an interactive Sales Dashboard using E
 
 The objective was to analyze sales performance, profitability, product performance, and regional trends through KPI calculations, pivot tables, and visualizations.
 
----
+--
 
 ## Dataset
 

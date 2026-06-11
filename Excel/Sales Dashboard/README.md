@@ -65,6 +65,8 @@ The dashboard tracks:
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ![Sales Dashboard](sales-dashboard-project.png)
 
 ---
